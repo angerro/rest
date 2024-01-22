@@ -1,7 +1,1 @@
 /.idea/
-
-# code sniffer
-phpcbf.phar
-phpcs.phar
-
-
